@@ -1,2 +1,2 @@
 # Database-Table-CSV-Export
-WordPress Plugin for Database Table CSV Export
+Just a simple WordPress plugin to export Database Tables
